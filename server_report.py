@@ -5,7 +5,7 @@ Prints basic server status information.
 """
 
 def main():
-    print("=== Server Report ===")
+    print("=== Memory Usage ===")
     print("Status: OK")
 
 
